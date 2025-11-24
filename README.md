@@ -1,0 +1,1 @@
+This Python program assesses a user’s heart attack risk based on inputs like age, blood pressure, cholesterol, and lifestyle habits. It calculates a risk score, classifies it as low, moderate, or high risk, displays health advice, and then saves the data and risk level into a CSV file for record-keeping.
